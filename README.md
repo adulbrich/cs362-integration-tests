@@ -16,7 +16,7 @@ This will install the `http-server` package.
 Then run either of these:
 
 ```shell
-npm run serve:registerUser
+npm run serve:register
 ```
 
 ```shell
